@@ -15,6 +15,12 @@
 
 <hr>
 
+### 🏆 GitHub Ranks
+
+<div align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=diablo-harmonz&theme=tokyonight&no-bg=true" alt="GitHub Trophies">
+</div>
+
 ### 💻 Rank & Stats
 
 <div align="center">
